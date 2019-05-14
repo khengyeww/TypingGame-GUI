@@ -74,7 +74,7 @@ public class ChooseVideoState implements State {
 		g.drawString("How to set your video:", 50, 100);
 
 		g.setFont(new Font(Model.COMIC_FONT, Font.BOLD, 15));
-		g.drawString("1) First, copy and paste your video into 'bin' folder ( Please use .mp4 video )", 100, 125);
+		g.drawString("1) First, copy and paste your video into same folder ( Please use .mp4 video )", 100, 125);
 		g.drawString("2) Press ' c ' or Click CUSTOM at below", 100, 145);
 		g.drawString("3) Press ' f ' or Click the black box below to insert the name of your video + \".mp4\"", 100, 165);
 		g.drawString("eg: \" myvideo.mp4\"", 130, 185);
