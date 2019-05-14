@@ -1,14 +1,14 @@
 # TypingGame-GUI
 A GUI typing game made during uni 3rd year
 
-### Desired display size: 800x600 (W x H)
+### Desired display size for the app: 800x600 (W x H)
 
 ## Please Read
 The game is not completed and will not be completed but the main part is still playable.
 
 #### Not completed features:
 1. Intended final video playing feature
-2. Score Ranking
+2. Score ranking feature
 
 Playing in sizes other than mentioned above might provide bad experiences.
 
