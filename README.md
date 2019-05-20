@@ -3,10 +3,19 @@ A GUI typing game made during uni 3rd year
 
 ### Desired display size for the app: 800x600 (W x H)
 
+## Gameplay Instruction
+1. First pick a video, or use the default video.
+2. Start the typing game.
+3. Upon typing correctly, the loaded video will play normally, else it will stop at the frame where mistype occured.
+4. Clear condition: Finish the last sentence after the total video duration is exceeded.
+5. After finishing, the result video will be replayed.
+
+The result video should be the same as shown during playing phase. (Play smoothly or stop at certain frame. But I failed to implement this part~)
+
 ## Please Read
 The game is not completed and will not be completed but the main part is still playable.
 
-#### Not completed features:
+#### Unimplemented features:
 1. Intended final video playing feature
 2. Score ranking feature
 
