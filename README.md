@@ -10,13 +10,15 @@ A GUI typing game made during uni 3rd year
 4. Clear condition: Finish the last sentence after the total video duration is exceeded.
 5. After finishing, the result video will be replayed.
 
-The result video should be the same as shown during playing phase. (Play smoothly or stop at certain frame. But I failed to implement this part~)
+**PS:** The result video should be the same as shown during playing phase (play smoothly or stop at certain frame).
+This is to reflect player's typing skill (video playing smoothly means player has great typing skill and vice versa).
+But I failed to implement this part~
 
 ## Please Read
 The game is not completed and will not be completed but the main part is still playable.
 
 #### Unimplemented features:
-1. Intended final video playing feature
+1. Intended result video's playing feature (mentioned in **PS** above)
 2. Score ranking feature
 
 Playing in sizes other than mentioned above might provide bad experiences.
